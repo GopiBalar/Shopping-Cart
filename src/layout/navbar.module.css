@@ -1,0 +1,14 @@
+.active {
+  /* border: 2px solid rgb(4 47 46); */
+  padding: 0.5rem 1rem;
+  /* background-color: rgb(13 148 136); */
+  /* background-color: rgb(94 234 212); */
+  /* color: white; */
+  border-radius: 5px;
+  box-shadow: rgb(4 47 46) 3px 3px 6px 0px inset,
+    rgba(4 47 46) -3px -3px 6px 1px inset;
+}
+
+.inactive {
+  border: none;
+}
